@@ -159,3 +159,4 @@ function renderProductList(array) {
   }
 }
 renderProductList(productList);
+console.log(123 + "456");
